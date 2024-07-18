@@ -26,7 +26,7 @@ challenges help you improve your coding skills by building realistic projects.
 
 ### Links
 
--   Solution URL: [Frontend Mentor solution - damigand](https://your-solution-url.com)
+-   Solution URL: [Frontend Mentor solution - damigand](https://www.frontendmentor.io/solutions/blog-preview-card-solution-Ru9yqdGl0H)
 -   Live Site URL: [Netlify live site - damigand](https://blog-card-damigand.netlify.app/)
 
 ## My process
