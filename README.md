@@ -22,7 +22,7 @@ challenges help you improve your coding skills by building realistic projects.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
